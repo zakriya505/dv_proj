@@ -1,0 +1,32 @@
+Data Link
+https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv
+
+
+
+Project:
+COVID-19 & Public Response Visualization Analysis
+Description
+
+Analyze COVID-19 spread, vaccination, and public response using time-series and geographic visualizations.
+
+Visualizations
+
+Line charts (cases over time)
+
+Heatmaps (cases per country)
+
+Multivariate plots (cases vs vaccinations)
+
+Interactive timeline filters
+
+Tools
+
+Python (pandas, matplotlib, seaborn, Plotly)
+
+Optional: Tableau
+
+Strong fit for:
+
+Time series visualization
+
+Ethics (misleading COVID graphs)
