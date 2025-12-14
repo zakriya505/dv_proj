@@ -30,3 +30,14 @@ Strong fit for:
 Time series visualization
 
 Ethics (misleading COVID graphs)
+
+
+
+
+✔ Data cleaning & preparation
+✔ Exploratory Data Analysis (EDA)
+✔ Multiple visualization types
+✔ Design principles (good vs bad visuals)
+✔ Interactivity / dashboards
+✔ Ethical considerations
+✔ Real-world dataset
